@@ -5,6 +5,7 @@ import (
 	"sync"
 )
 
+// declaration des constantes
 const (
 	Search   = 1
 	Null     = 0
